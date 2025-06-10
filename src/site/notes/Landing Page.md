@@ -11,7 +11,7 @@ Hello and welcome to the official regen=Q charting site™! This is (hopefully) 
 Download test: [[taixu (regen=Q).zip]]
 
 ---
-<p style="text-align: center; font-size: 12px;">🄯 regen=Q. All rights reversed, apart from the songs and art used in charts. Theirs belong to their respective owners.</p>
+<p style="text-align: center; font-size: 12px;">🄯 regen=Q. All rights reversed, apart from the songs and art used in charts, which belong to their respective owners.</p>
 <div style="display: flex; flex-direction: row; justify-content: center; gap: 20px;">
 	<a href="https://www.youtube.com/@regen-Q"><img src="youtube.svg" width="32"></a>
 	<a href="https://space.bilibili.com/3546594718780149"><img src="bilibili.svg" width="32"></a>
