@@ -3,12 +3,12 @@
 ---
 
 <h1 style="text-align: center;">"hello world" - every programmer ever</h1>
-Hello and welcome to the official regen=Q charting site™! This is (hopefully) the place where I publish charts and charting-related stuff conjured up from my obsidian notes
+Hello and welcome to the official regen=Q charting site™! This is (hopefully) the place where I publish charts and charting-related stuff conjured up from my obsidian notes.
 
 ## New Charts
 (WIP)
 
-Download test: <a href="download/taixu (regen=Q).zip">here</a>
+[[etterna/(4K) ネジ巻き師と太虚鳥 (taixu)\|(4K) ネジ巻き師と太虚鳥 (taixu)]]
 
 ---
 <p style="text-align: center; font-size: 12px;">🄯 regen=Q. All rights reversed, apart from the songs and art used in charts, which belong to their respective owners.</p>
