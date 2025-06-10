@@ -3,8 +3,8 @@
 ---
 
 <h2 style="text-align: center;">"hello world" - every programmer ever</h2>
-Hello and welcome to this... thing! This is (hopefully) the place where I publish stuff conjured up from my obsidian notes
-### Who are you?
+Hello and welcome to this... thing! This is (hopefully) the place where I publish stuff conjured up from my obsidian notes\n
+### Who are you?\n
 I'm regen=Q
 ##### No, really, who *are* you?
 A Malaysian gamedev. I've been doing gamedev-adjacent stuff for about a year and a half now (and that incidentally includes rhythm game charting)
