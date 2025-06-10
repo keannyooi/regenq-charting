@@ -38,7 +38,6 @@
   color: white;
   background-color: limegreen;
   font-weight: bold;
-  text-decoration: none;
   border-radius: 5px;
   padding: 5px 10px;
   transition: 0.3s;
@@ -47,4 +46,5 @@
 .download-btn:hover {
   color: gainsboro;  
   background-color: forestgreen;
+  text-decoration: none;
 }
