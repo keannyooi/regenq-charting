@@ -9,27 +9,28 @@
   padding: 0 3px;
 }
 
-.etterna-bg {
+/* developer-recommended warcrimes let's gooooooooo */
+.etterna-bg !important {
   color: white;
   backgorund-color: deepskyblue;
 }
 
-.etterna-ez {
+.etterna-ez !important {
   color: white;
   backgorund-color: forestgreen;
 }
 
-.etterna-nm {
+.etterna-nm !important {
   color: white;
   backgorund-color: gold;
 }
 
-.etterna-hd {
+.etterna-hd !important {
   color: white;
   backgorund-color: red;
 }
 
-.etterna-in {
+.etterna-in !important {
   color: white;
   backgorund-color: darkviolet;
 }
