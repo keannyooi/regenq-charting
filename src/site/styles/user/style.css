@@ -9,27 +9,27 @@
   padding: 0 3px;
 }
 
-.chart-diff .etterna-bg {
+.etterna-bg {
   color: white;
   backgorund-color: deepskyblue;
 }
 
-.chart-diff .etterna-ez {
+.etterna-ez {
   color: white;
   backgorund-color: forestgreen;
 }
 
-.chart-diff .etterna-nm {
+.etterna-nm {
   color: white;
   backgorund-color: gold;
 }
 
-.chart-diff .etterna-hd {
+.etterna-hd {
   color: white;
   backgorund-color: red;
 }
 
-.chart-diff .etterna-in {
+.etterna-in {
   color: white;
   backgorund-color: darkviolet;
 }
