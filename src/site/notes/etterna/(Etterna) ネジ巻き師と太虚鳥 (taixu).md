@@ -34,7 +34,7 @@
 </div>
 <br>
 <div style="display: flex; justify-content: center;">
-	<a href="https://github.com/keannyooi/regenq-charting-archive/raw/refs/heads/main/etterna/sasakure.UK%20ft.%20lasah%20-%20taixu.zip" style="color: white; background-color: forestgreen; font-weight: bold; text-decoration: none; border-radius: 5px; padding: 5px 10px;">Download Chart</a>
+	<a href="https://github.com/keannyooi/regenq-charting-archive/raw/refs/heads/main/etterna/sasakure.UK%20ft.%20lasah%20-%20taixu.zip" class="download-btn">Download Chart</a>
 </div>
 
 ## Thoughts
