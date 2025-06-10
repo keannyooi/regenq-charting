@@ -2,10 +2,9 @@
 {"dg-publish":true,"permalink":"/etterna-charts/"}
 ---
 
+Charts in this section are saved in either `.sm` or `.ssc` format and are compatible with Etterna.
 
-Charts in this section are saved in either `.sm` or `.ssc` format and are meant to be played in Etterna.
-
-- [[etterna/(4K) ネジ巻き師と太虚鳥 (taixu)\|(4K) ネジ巻き師と太虚鳥 (taixu)]]
+- [[etterna/(Etterna) ネジ巻き師と太虚鳥 (taixu)\|(Etterna) ネジ巻き師と太虚鳥 (taixu)]]
 
 { .block-language-dataview}
 
