@@ -10,29 +10,24 @@
 }
 
 /* developer-recommended warcrimes let's gooooooooo */
-.etterna-bg !important {
-  color: white;
-  backgorund-color: deepskyblue;
+.etterna-bg {
+  backgorund-color: deepskyblue !important;
 }
 
-.etterna-ez !important {
-  color: white;
-  backgorund-color: forestgreen;
+.etterna-ez {
+  backgorund-color: forestgreen !important;
 }
 
-.etterna-nm !important {
-  color: white;
-  backgorund-color: gold;
+.etterna-nm {
+  backgorund-color: gold !important;
 }
 
-.etterna-hd !important {
-  color: white;
-  backgorund-color: red;
+.etterna-hd {
+  backgorund-color: red !important;
 }
 
 .etterna-in !important {
-  color: white;
-  backgorund-color: darkviolet;
+  backgorund-color: darkviolet !important;
 }
 
 .download-btn {
