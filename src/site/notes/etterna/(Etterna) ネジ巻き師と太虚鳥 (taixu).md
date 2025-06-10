@@ -4,7 +4,7 @@
 
 #etterna #4k #sasakureuk 
 
-<img src="assets/etterna/taixu_banner.png" width="450" class="chart-banner">
+![taixu_banner.png|450](/img/user/assets/etterna/taixu_banner.png)
 <div style="display: flex; gap: 20px;">
 	<div>
 		<h2 style="text-align: center;">Chart Information</h2>
@@ -34,7 +34,7 @@
 </div>
 <br>
 <div style="display: flex; justify-content: center;">
-	<a href="https://github.com/keannyooi/regenq-charting-archive/raw/refs/heads/main/etterna/sasakure.UK%20ft.%20lasah%20-%20taixu.zip" style="color: white; background-color: forestgreen; font-weight: bold; text-decoration: none; border-radius: 5px; padding: 5 10px;">Download Chart</a>
+	<a href="https://github.com/keannyooi/regenq-charting-archive/raw/refs/heads/main/etterna/sasakure.UK%20ft.%20lasah%20-%20taixu.zip" style="color: white; background-color: forestgreen; font-weight: bold; text-decoration: none; border-radius: 5px; padding: 5px 10px;">Download Chart</a>
 </div>
 
 ## Thoughts
