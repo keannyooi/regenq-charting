@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/4k/4-k-taixu/"}
 ---
 
-#sm #4k #sasakureuk 
+#sm #4k #sasakureuk #release
 
 ![taixu_banner.png|450](/img/user/assets/4k/taixu_banner.png)
 <div style="display: flex; gap: 20px;">
@@ -33,7 +33,7 @@
 	</div>
 	<div>
 	<h2 style="text-align: center;">Chart Preview</h2>
-		<iframe width="400" height="225" src="https://www.youtube-nocookie.com/embed/IAQma8bf4mU?si=cdCLi66ARIWmttWB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" style="display: block; margin: 0 auto;" allowfullscreen></iframe>
+		<iframe width="400" height="225" src="https://www.youtube-nocookie.com/embed/IAQma8bf4mU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" style="display: block; margin: 0 auto;" allowfullscreen></iframe>
 	</div>
 </div>
 <br>

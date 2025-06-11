@@ -7,16 +7,14 @@ Hello and welcome to the official regen=Q charting site™! This is (hopefully) 
 
 ## Index
 - **[[Chart Analyses\|Chart Analyses]]** - me analyzing charts for improvement purposes
-- **[[4K Charts\|4K Charts]]** - 4k charts designed for various VSRGs
+- **[[4K Charts\|4K Charts]]** - 4K charts designed for various VSRGs
+- **[[EX-XDRiVER Charts\|EX-XDRiVER Charts]]** - charts for the funny rhythm game that tries to be a racing game
 
-## Recently Updated Pages
-| File                                                                                                     | Last Modified            |
-| -------------------------------------------------------------------------------------------------------- | ------------------------ |
-| [[4K Charts\|4K Charts]]                                                                              | 12:48 PM - June 11, 2025 |
-| [[Landing Page\|Landing Page]]                                                                        | 12:48 PM - June 11, 2025 |
-| [[4k/(4K) ネジ巻き師と太虚鳥 (taixu)\|(4K) ネジ巻き師と太虚鳥 (taixu)]]                                                 | 12:43 PM - June 11, 2025 |
-| [[analyses/(4K Analysis) Knower - THE GOVERNMENT KNOWS\|(4K Analysis) Knower - THE GOVERNMENT KNOWS]] | 12:37 PM - June 11, 2025 |
-| [[Chart Analyses\|Chart Analyses]]                                                                    | 12:34 PM - June 11, 2025 |
+##  Latest Chart Releases
+| File                                                     | Composer                | Difficulty                                          | Last Modified           |
+| -------------------------------------------------------- | ----------------------- | --------------------------------------------------- | ----------------------- |
+| [[4k/(4K) ネジ巻き師と太虚鳥 (taixu)\|(4K) ネジ巻き師と太虚鳥 (taixu)]] | sasakure.UK feat. lasah | <span class="chart-diff etterna-hd">HD</span> 13.95 | 1:19 PM - June 11, 2025 |
+| [[xdrv/(XDRV) EXILE\|(XDRV) EXILE]]                   | -45                     | <span class="chart-diff xdrv-ex">EX</span> 15       | 1:19 PM - June 11, 2025 |
 
 { .block-language-dataview}
 
