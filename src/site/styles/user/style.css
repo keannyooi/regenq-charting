@@ -7,9 +7,11 @@
   font-weight: bold;
   border-radius: 2px;
   padding: 0 3px;
+  text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
 }
 
 /* developer-recommended warcrimes let's gooooooooo */
+/* etterna diffs */
 .etterna-bg {
   background-color: deepskyblue !important;
 }
@@ -19,7 +21,7 @@
 }
 
 .etterna-nm {
-  background-color: gold !important;
+  background-color: goldenrod !important;
 }
 
 .etterna-hd {
@@ -29,6 +31,29 @@
 .etterna-in {
   background-color: darkviolet !important;
 }
+
+/* ex-xdriver diffs */
+.xdrv-bg {
+  background-color: #C5F02B !important;
+}
+
+.xdrv-nm {
+  background-color: #39F057 !important;
+}
+
+.xdrv-hy {
+  background-color: #21C0FC !important;
+}
+
+.xdrv-ex {
+  background-color: #FF50C3 !important;
+}
+
+.xdrv-ov {
+  background-color: #FF1080 !important;
+}
+
+
 
 .download-btn {
   color: white;
