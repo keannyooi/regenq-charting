@@ -1,27 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/4-k-charts/"}
+{"dg-publish":true,"permalink":"/chart-analyses/"}
 ---
 
-Every 4K chart of mine is designed for keyboard (a.k.a. "spread") play.
-
-> [!WARNING] Different file formats and what they mean
-> Charts in this section are available in one of two files formats:`.sm` or `.ssc`.
-> 
-> `.sm` - Charts saved in this format only contain notes, holds and mines.  They are compatible with Etterna, Quaver and Malody(?). Do note that mines will not appear in Quaver and Malody (TODO: verify this statement)
-> 
-> `.ssc` - Charts saved in this format utilize Stepmania 5 gimmicks, such as scroll speed changes and . They are designed to be played in Etterna only.
-> 
-> `.osu` - (WIP)
-
-## .sm
-| File                                                     | Composer                | Difficulty                                          |
-| -------------------------------------------------------- | ----------------------- | --------------------------------------------------- |
-| [[4k/(4K) ネジ巻き師と太虚鳥 (taixu)\|(4K) ネジ巻き師と太虚鳥 (taixu)]] | sasakure.UK feat. lasah | <span class="chart-diff etterna-hd">HD</span> 13.95 |
-
-{ .block-language-dataview}
-## .ssc
-| File | Composer | Difficulty |
-| ---- | -------- | ---------- |
+The following are my chart analysis notes. I'm currently still figuring out the use of this section
+| File                                                                                                     |
+| -------------------------------------------------------------------------------------------------------- |
+| [[analyses/(4K Analysis) Knower - THE GOVERNMENT KNOWS\|(4K Analysis) Knower - THE GOVERNMENT KNOWS]] |
 
 { .block-language-dataview}
 

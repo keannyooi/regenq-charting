@@ -3,9 +3,8 @@
 ---
 
 #4k #analysis
-**OBJECTIVE:** analyze layering
 
-![](C:/Games/Etterna/Songs/Stepping%20Stones%204/The%20Government%20Knows%20[JenovaSephiroth]/govtbn.png)
+**OBJECTIVE:** analyze layering
 ## Chart Information // 4K
 | Pack           | [Stepping Stones 4](https://etternaonline.com/packs/4212)                                                |
 | -------------- | -------------------------------------------------------------------------------------------------------- |
@@ -58,6 +57,6 @@
 - pattern assignment layering is great when the instrumentation is chaotic because the notes are grounded to something whilst embracing the chaos
 - very rigid column-based keysound layering helps make speed-up / slowdown parts (e.g.: measures 115 ~ 118) easier to comprehend and time to
 
-[and remember: the government knows when you masturbate]:
+<p style="font-size: 10px;">and remember: the government knows when you masturbate</p>
 
---- <p style="text-align: center; font-size: 12px;">🄯 regen=Q. All rights reversed, apart from the songs and art used in charts, which belong to their respective owners.</p> <div style="display: flex; flex-direction: row; justify-content: center; gap: 20px;"> 	<a href="https://www.youtube.com/@regen-Q" target="_blank"><img src="https://raw.githubusercontent.com/keannyooi/regenq-charting-archive/refs/heads/main/youtube.svg" width="32"></a> 	<a href="https://space.bilibili.com/3546594718780149" target="_blank"><img src="https://raw.githubusercontent.com/keannyooi/regenq-charting-archive/refs/heads/main/bilibili.svg" width="32"></a> 	<a href="https://regenq.itch.io/" target="_blank"><img src="https://raw.githubusercontent.com/keannyooi/regenq-charting-archive/refs/heads/main/itch.svg" width="32" target="_blank"></a> 	<a href="https://bsky.app/profile/regen-q.bsky.social" target="_blank"><img src="https://raw.githubusercontent.com/keannyooi/regenq-charting-archive/refs/heads/main/bluesky.svg" width="32"></a> 	<a href="https://github.com/keannyooi" target="_blank"><img src="https://raw.githubusercontent.com/keannyooi/regenq-charting-archive/refs/heads/main/github.svg" width="32"></a> </div>
+<hr><p style="text-align: center; font-size: 12px;">🄯 regen=Q. All rights reversed, apart from the songs and art used in charts, which belong to their respective owners.</p> <div style="display: flex; flex-direction: row; justify-content: center; gap: 20px;"> 	<a href="https://www.youtube.com/@regen-Q" target="_blank"><img src="https://raw.githubusercontent.com/keannyooi/regenq-charting-archive/refs/heads/main/youtube.svg" width="32"></a> 	<a href="https://space.bilibili.com/3546594718780149" target="_blank"><img src="https://raw.githubusercontent.com/keannyooi/regenq-charting-archive/refs/heads/main/bilibili.svg" width="32"></a> 	<a href="https://regenq.itch.io/" target="_blank"><img src="https://raw.githubusercontent.com/keannyooi/regenq-charting-archive/refs/heads/main/itch.svg" width="32" target="_blank"></a> 	<a href="https://bsky.app/profile/regen-q.bsky.social" target="_blank"><img src="https://raw.githubusercontent.com/keannyooi/regenq-charting-archive/refs/heads/main/bluesky.svg" width="32"></a> 	<a href="https://github.com/keannyooi" target="_blank"><img src="https://raw.githubusercontent.com/keannyooi/regenq-charting-archive/refs/heads/main/github.svg" width="32"></a> </div>
