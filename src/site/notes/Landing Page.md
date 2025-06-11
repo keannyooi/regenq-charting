@@ -9,6 +9,7 @@ Hello and welcome to the official regen=Q charting site™! This is (hopefully) 
 - **[[Chart Analyses\|Chart Analyses]]** - me analyzing charts for improvement purposes
 - **[[4K Charts\|4K Charts]]** - 4K charts designed for various VSRGs
 - **[[EX-XDRiVER Charts\|EX-XDRiVER Charts]]** - charts for the funny rhythm game that tries to be a racing game
+- **[[About Me\|About Me]]** - what's a regen=Q?
 
 ##  Latest Chart Releases
 | File                                                     | Composer                | Difficulty                                          | Last Modified           |
