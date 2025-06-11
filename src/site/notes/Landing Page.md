@@ -5,9 +5,9 @@
 <h1 style="text-align: center;">"hello world" - every programmer ever</h1>
 Hello and welcome to the official regen=Q charting site™! This is (hopefully) the place where I publish charts and charting-related stuff conjured up from my obsidian notes.
 
-## My Charts
-- [[Etterna Charts\|Etterna Charts]]
-- (WIP)
+## Index
+- **[[Chart Analyses\|Chart Analyses]]** - me analyzing charts for improvement purposes
+- **[[4K Charts\|4K Charts]]** - 4k charts designed for various VSRGs
 
 ---
 <p style="text-align: center; font-size: 12px;">🄯 regen=Q. All rights reversed, apart from the songs and art used in charts, which belong to their respective owners.</p>
