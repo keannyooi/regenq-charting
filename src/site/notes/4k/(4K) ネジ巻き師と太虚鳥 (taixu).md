@@ -26,8 +26,12 @@
 				<td>regen=Q</td>
 			</tr>
 			<tr>
-				<td>Difficulty</td>
-				<td><span class="chart-diff etterna-hd">HD</span> 13.95</td>
+				<td>Difficulty (MSD)</td>
+				<td><span class="chart-diff etterna-hd">HD 13.95</span></td>
+			</tr>
+			<tr>
+				<td>Completion Date</td>
+				<td>14/5/2025</td>
 			</tr>
 		</table>
 	</div>

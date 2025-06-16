@@ -3,9 +3,10 @@
 ---
 
 The following are my chart analysis notes. I'm currently still figuring out the use of this section
-| File                                                                                                     |
-| -------------------------------------------------------------------------------------------------------- |
-| [[analyses/(4K Analysis) Knower - THE GOVERNMENT KNOWS\|(4K Analysis) Knower - THE GOVERNMENT KNOWS]] |
+| File                                                                                                                                               |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[analyses/(4K Analysis) Knower - THE GOVERNMENT KNOWS\|(4K Analysis) Knower - THE GOVERNMENT KNOWS]]                                           |
+| [[analyses/(4K Analysis) 植松伸夫 Nobuo Uematsu - Assault (Final Fantasy X OST)\|(4K Analysis) 植松伸夫 Nobuo Uematsu - Assault (Final Fantasy X OST)]] |
 
 { .block-language-dataview}
 

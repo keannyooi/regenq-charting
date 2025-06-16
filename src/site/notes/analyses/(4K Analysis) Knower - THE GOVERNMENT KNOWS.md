@@ -6,12 +6,12 @@
 
 **OBJECTIVE:** analyze layering
 ## Chart Information // 4K
-| Pack           | [Stepping Stones 4](https://etternaonline.com/packs/4212)                                                |
-| -------------- | -------------------------------------------------------------------------------------------------------- |
-| Song           | Knower - THE GOVERNMENT KNOWS                                                                            |
-| MSD            | <span class="chart-diff etterna-nm">NM</span> 13.13, <span class="chart-diff etterna-hd">HD</span> 14.66 |
-| Chart Length   | 3:41                                                                                                     |
-| Chart Designer | JenovaSephiroth                                                                                          |
+| Pack             | [Stepping Stones 4](https://etternaonline.com/packs/4212)                                               |
+| ---------------- | ------------------------------------------------------------------------------------------------------- |
+| Song             | Knower - THE GOVERNMENT KNOWS                                                                           |
+| Difficulty (MSD) | <span class="chart-diff etterna-nm">NM 13.13</span> <span class="chart-diff etterna-hd">HD 14.66</span> |
+| Chart Length     | 3:41                                                                                                    |
+| Chart Designer   | JenovaSephiroth                                                                                         |
 ## Layering Breakdown
 #### HD
 | section       | AV measures | layering scheme                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
