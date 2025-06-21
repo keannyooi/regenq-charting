@@ -14,16 +14,17 @@ Every 4K chart of mine is designed for keyboard (a.k.a. "spread") play.
 > `.osu` - (WIP)
 
 ## .sm
-| File                                                     | Composer                | Difficulty                                                                                             |
-| -------------------------------------------------------- | ----------------------- | ------------------------------------------------------------------------------------------------------ |
-| [[4k/(4K) ネジ巻き師と太虚鳥 (taixu)\|(4K) ネジ巻き師と太虚鳥 (taixu)]] | sasakure.UK feat. lasah | <span class="chart-diff etterna-hd">HD 13.95</span>                                                    |
-| [[4k/(4K) MxMxM Star\|(4K) MxMxM Star]]               | TJ.hangneil             | <span class="chart-diff etterna-nm">NM 9.90</span> <span class="chart-diff etterna-hd">HD 16.24</span> |
-| [[4k/(4K) NEONEO\|(4K) NEONEO]]                       | sasakure.UK             | <span class="chart-diff etterna-hd">HD 13.40</span>                                                    |
+| File                                                     | Composer                | Difficulty                                                                                                |
+| -------------------------------------------------------- | ----------------------- | --------------------------------------------------------------------------------------------------------- |
+| [[4k/(4K) ネジ巻き師と太虚鳥 (taixu)\|(4K) ネジ巻き師と太虚鳥 (taixu)]] | sasakure.UK feat. lasah | <span class="chart-diff etterna-hd">HD 13.95</span>                                                       |
+| [[4k/(4K) NEONEO\|(4K) NEONEO]]                       | sasakure.UK             | <span class="chart-diff etterna-hd">HD 13.40</span>                                                       |
+| [[4k/(4K) MxMxM Star\|(4K) MxMxM Star]]               | TJ.hangneil             | <span class="chart-diff etterna-nm">NM 9.90</span><br><span class="chart-diff etterna-hd">HD 16.24</span> |
 
 { .block-language-dataview}
 ## .ssc
-| File | Composer | Difficulty |
-| ---- | -------- | ---------- |
+| File                               | Composer  | Difficulty                                          |
+| ---------------------------------- | --------- | --------------------------------------------------- |
+| [[4k/(4K) Page 0\|(4K) Page 0]] | 黒魔 Chroma | <span class="chart-diff etterna-in">IN 17.93</span> |
 
 { .block-language-dataview}
 

@@ -27,7 +27,7 @@
 			</tr>
 			<tr>
 				<td>Difficulty (MSD)</td>
-				<td><span class="chart-diff etterna-nm">NM 9.90</span> <span class="chart-diff etterna-hd">HD 16.24</span></td>
+				<td><span class="chart-diff etterna-nm">NM 9.90</span><br><span class="chart-diff etterna-hd">HD 16.24</span></td>
 			</tr>
 			<tr>
 				<td>Completion Date</td>
@@ -37,7 +37,8 @@
 	</div>
 	<div>
 		<h2 style="text-align: center;">Chart Preview</h2>
-		coming soon
+		<iframe width="400" height="225" src="https://www.youtube-nocookie.com/embed/xS1Ofj6EHAs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" style="display: block; margin: 0 auto;" allowfullscreen></iframe>
+		
 	</div>
 </div>
 <br>
@@ -47,7 +48,7 @@
 
 ## Thoughts
 
-obscure song from obscure arcade rhythm game, released at about the same time as [Kamui (神威)](https://www.youtube.com/watch?v=vHSYiBsIfow). this dance track sounds nothing like sasakure.UK's usual works, let alone the ones under his TJ.hangneil alias - i find it somehow refreshing? 
+obscure song from obscure arcade rhythm game, released around the same time as [Kamui (神威)](https://www.youtube.com/watch?v=vHSYiBsIfow). this dance track sounds nothing like sasakure.UK's usual works, let alone the ones under his TJ.hangneil alias - i find it somehow refreshing? 
 
 as for the chart itself, the HD difficulty used to feature 24th minijacks mimicking the hand movements playing the hihats, but various people from the FFR community thought that gave them too much emphasis, so i nerfed them to 12ths. charts took 2 days to finish, didn't put in as much effort into the NM difficulty so there probably will be layering mistakes
 
