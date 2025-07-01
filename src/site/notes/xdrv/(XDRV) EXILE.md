@@ -26,7 +26,11 @@
 			</tr>
 			<tr>
 				<td>Difficulty</td>
-				<td><span class="chart-diff xdrv-ex">EX</span> 15</td>
+				<td><span class="chart-diff xdrv-ex">EX 15</span></td>
+			</tr>
+			<tr>
+				<td>Completion Date</td>
+				<td>30/8/2024</td>
 			</tr>
 		</table>
 	</div>
